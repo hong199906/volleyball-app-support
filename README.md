@@ -11,3 +11,11 @@
 
 使用者內容守則 (UGC Policy)
 我們對違規內容採取零容忍政策。若發現任何不當內容或騷擾行為，請使用 App 內的「檢舉」或「封鎖」功能。我們將在 24 小時內處理並移除違規內容。
+
+
+# Support & Feedback
+If you have any questions or would like to report objectionable content, please contact us:
+
+Email: a0926663157@gmail.com
+
+UGC Policy: We have zero tolerance for objectionable content or abusive users. We will act on reports within 24 hours by removing content and ejecting offending users.
